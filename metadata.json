@@ -1,6 +1,0 @@
-{
-  "name": "AAXAX",
-  "description": "A psychological sci-fi digital interface and cognitive analysis console bridging human consciousness with artificial intelligence.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
